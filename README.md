@@ -29,12 +29,15 @@
     <summary>🗂️ Tabla de Contenido</summary>
 
 <!-- TOC -->
-- [](#)
+- [EDT (Estructura de desgloce de trabajo)](#edt-estructura-de-desgloce-de-trabajo)
+
 
 
 
 </details>
 
-## 
+# EDT (Estructura de desgloce de trabajo)
+
+
 
 
