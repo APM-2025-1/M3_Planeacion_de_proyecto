@@ -29,19 +29,19 @@
     <summary>🗂️ Tabla de Contenido</summary>
 
 <!-- TOC -->
-- [Objetivo del proyecto](#objetivo-del-proyecto)
-  - [Alcance del Proyecto:](#alcance-del-proyecto)
-- [EDT (Estructura de desgloce de trabajo)](#edt-estructura-de-desgloce-de-trabajo)
-- [Cronograma](#cronograma)
+- [1. 🎯 Objetivo del proyecto](#1--objetivo-del-proyecto)
+  - [1.1. 📋 Alcance del Proyecto:](#11--alcance-del-proyecto)
+- [2. 🗂️ EDT (Estructura de desgloce de trabajo)](#2-️-edt-estructura-de-desgloce-de-trabajo)
+- [3. 🗓️ Cronograma](#3-️-cronograma)
 
 
 </details>
 
-# Objetivo del proyecto
+# 1. 🎯 Objetivo del proyecto
  
 Diseñar, analizar y validar un sistema automatizado de manufactura para la producción de tres modelos de patinetas eléctricas de la marca Velocifero (MAD 2000W, MAD 1600W y Mini MAD 800W), enfocándose en la eficiencia del proceso de ensamblaje, la integración de tecnologías de automatización y la implementación de al menos una celda robotizada. El objetivo es proponer una solución que responda a las diferencias funcionales y físicas entre los productos, garantizando calidad, repetibilidad y reducción de tiempos de operación.
  
-## Alcance del Proyecto:
+## 1.1. 📋 Alcance del Proyecto:
 - Incluir al menos tres modelos distintos de patinetas con diferencias claras en potencia, tamaño y configuración de piezas.
 - Desarrollar el análisis completo del proceso de fabricación, desde recepción de partes hasta empaquetado final.
 - Identificar y automatizar al menos tres etapas clave, incluyendo una celda robotizada.
@@ -50,7 +50,7 @@ Diseñar, analizar y validar un sistema automatizado de manufactura para la prod
 - resentar una evaluación técnico-económica de la solución automatizada.
 
 
-# EDT (Estructura de desgloce de trabajo)
+# 2. 🗂️ EDT (Estructura de desgloce de trabajo)
 
  ```mermaid
 flowchart RL
@@ -79,6 +79,6 @@ flowchart RL
     K@{ shape: hex}
 ```
 
-# Cronograma
+# 3. 🗓️ Cronograma
 
 ![cronograma](Figs/cronograma.jpg)
