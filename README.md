@@ -30,6 +30,7 @@
 
 <!-- TOC -->
 - [EDT (Estructura de desgloce de trabajo)](#edt-estructura-de-desgloce-de-trabajo)
+- [Cronograma](#cronograma)
 
 
 </details>
@@ -63,3 +64,6 @@ flowchart RL
     K@{ shape: hex}
 ```
 
+# Cronograma
+
+![cronograma](Figs/cronograma.jpg)
