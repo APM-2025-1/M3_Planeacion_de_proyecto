@@ -39,7 +39,7 @@
 
 # 1. 🎯 Objetivo del proyecto
  
-Diseñar, analizar y validar un sistema automatizado de manufactura para la producción de tres modelos de patinetas eléctricas de la marca Velocifero (MAD 2000W, MAD 1600W y Mini MAD 800W), enfocándose en la eficiencia del proceso de ensamblaje, la integración de tecnologías de automatización y la implementación de al menos una celda robotizada. El objetivo es proponer una solución que responda a las diferencias funcionales y físicas entre los productos, garantizando calidad, repetibilidad y reducción de tiempos de operación.
+Diseñar, analizar y validar un sistema automatizado de manufactura para la producción de tres modelos de patinetas eléctricas de la marca Velocifero (MAD 2000W, Mini MAD 800W, MiniMaD Plus 500W), enfocándose en la eficiencia del proceso de ensamblaje, la integración de tecnologías de automatización y la implementación de al menos una celda robotizada. El objetivo es proponer una solución que responda a las diferencias funcionales y físicas entre los productos, garantizando calidad, repetibilidad y reducción de tiempos de operación.
  
 ## 1.1. 📋 Alcance del Proyecto:
 - Incluir al menos tres modelos distintos de patinetas con diferencias claras en potencia, tamaño y configuración de piezas.
@@ -53,7 +53,7 @@ Diseñar, analizar y validar un sistema automatizado de manufactura para la prod
 # 2. 🗂️ EDT (Estructura de desgloce de trabajo)
 
  ```mermaid
-flowchart RL
+flowchart LR
     A["Proyecto de Automatización de Ensamble de Patinetas"] --> B["1 Gestión del proyecto"] & C["2 Análisis de mercado y selección de productos"] & D["3 Diseño del Proceso de Ensamble"] & E["4 Planeación de rutina"] & F["5 Desarrollo del Sistema Automatizado"] & G["6 Evaluación Económica"] & H["7 Comunicaciones"] & I["8 Implementación Ladder"] & J["9 Diseño HMI y SCADA"] & K["10 Documentación y Entregables"]
     B --> B1["1.1 Revisión del reto del curso, objetivos y entregables"] & B2["1.2 Elaboración del EDT"] & B3["1.3 Creación del cronograma"] & B4["1.4 Designación de roles y responsabilidades por tarea"]
     C --> C1["2.1 Realizar estudio de mercado y definir objetivo de producción"] & C2["2.2 Selección de los tres modelos de patineta e identificación de características técnicas"] & C3["2.3 Comparación entre modelos"] & C4["2.4 Descomposición funcional y de ensamblaje"]
@@ -81,4 +81,8 @@ flowchart RL
 
 # 3. 🗓️ Cronograma
 
-![cronograma](Figs/cronograma.jpg)
+Para el cronograma se utilizo la herremienta para planeación de proyectos github projects con el cual se puede asignar actividades a diferentes usuarios de github que hacen parte de una organización, asimismo enlazar a repositorios especificos las tareas a desarrollar. Por otro lado permite la visualización de tareas en diferentes tipos de gráficos como un diagrama de gantt o tableros kanban. (Dar click en la imagen para ir a la página del cronograma)
+
+<a href="https://github.com/orgs/APM-2025-1/projects/1/views/1" target="_blank">
+  <img src="https://imgur.com/bSauv0y.png" alt="Vista del proyecto en GitHub" width="600px">
+</a>
