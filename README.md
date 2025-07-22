@@ -83,6 +83,8 @@ flowchart LR
 
 Para el cronograma se utilizo la herremienta para planeación de proyectos github projects con el cual se puede asignar actividades a diferentes usuarios de github que hacen parte de una organización, asimismo enlazar a repositorios especificos las tareas a desarrollar. Por otro lado permite la visualización de tareas en diferentes tipos de gráficos como un diagrama de gantt o tableros kanban. (Dar click en la imagen para ir a la página del cronograma)
 
-<a href="https://github.com/orgs/APM-2025-1/projects/1/views/1" target="_blank">
-  <img src="https://imgur.com/bSauv0y.png" alt="Vista del proyecto en GitHub" width="600px">
-</a>
+<div align="center">
+    <a href="https://github.com/orgs/APM-2025-1/projects/1/views/1" target="_blank">
+    <img src="https://imgur.com/bSauv0y.png" alt="Vista del proyecto en GitHub" width="600px">
+    </a>
+</div>
